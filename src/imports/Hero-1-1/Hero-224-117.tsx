@@ -1,5 +1,5 @@
-import imgGridMed1 from "figma:asset/caf0249ff3cc9f8ca83bf6e03f0a5adc2f2b3c1a.png";
-import imgImg16131 from "figma:asset/7862e0f6c729f093cd68f53eb25a9cc1aa438839.png";
+import imgGridMed1 from "./caf0249ff3cc9f8ca83bf6e03f0a5adc2f2b3c1a.png";
+import imgImg16131 from "./7862e0f6c729f093cd68f53eb25a9cc1aa438839.png";
 
 function Group() {
   return (

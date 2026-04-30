@@ -1,5 +1,5 @@
-import imgFrame1321321355 from "figma:asset/606685cf6a5b2cf8d9a8d0c0b501cfff9662f198.png";
-import imgFrame1321321356 from "figma:asset/dece30f12056abc4d5c63767c6286da2e9a0e6b3.png";
+import imgFrame1321321355 from "./606685cf6a5b2cf8d9a8d0c0b501cfff9662f198.png";
+import imgFrame1321321356 from "./dece30f12056abc4d5c63767c6286da2e9a0e6b3.png";
 import imgFrame1321321357 from "../Frame_1321321356_(3).png";
 
 function Frame() {

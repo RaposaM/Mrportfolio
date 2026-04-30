@@ -1,4 +1,4 @@
-import imgGridMed1 from "figma:asset/caf0249ff3cc9f8ca83bf6e03f0a5adc2f2b3c1a.png";
+import imgGridMed1 from "./caf0249ff3cc9f8ca83bf6e03f0a5adc2f2b3c1a.png";
 
 function Group() {
   return (
