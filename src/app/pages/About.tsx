@@ -166,10 +166,10 @@ export default function About() {
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_484px] gap-4 mb-12">
             <div className="space-y-4">
               <div className="bg-[#565656] rounded-[20px] p-6 md:p-8 text-white min-h-[180px] md:h-[220px] flex flex-col justify-center">
-                <p className="font-['Archivo:Regular',sans-serif] text-[24px] md:text-[28px] lg:text-[36px] mb-2" style={{ fontVariationSettings: "'wdth' 100" }}>
+                <p className="font-['Archivo:Regular',sans-serif] text-[20px] md:text-[28px] lg:text-[36px] mb-2" style={{ fontVariationSettings: "'wdth' 100" }}>
                   Hello! My name is:
                 </p>
-                <p className="font-['Ancizar_Serif:Regular',sans-serif] text-[48px] md:text-[60px] lg:text-[96px] leading-tight">Mitchell Raposa</p>
+                <p className="font-['Ancizar_Serif:Regular',sans-serif] text-[40px] md:text-[58px] lg:text-[88px] leading-tight">Mitchell Raposa</p>
               </div>
 
               <div className="flex gap-4 min-h-[180px] md:h-[229px]">
