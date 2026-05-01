@@ -34,13 +34,13 @@ export default function Hero() {
 
 {/* Circle */}
       <div
-        className="absolute w-[300px] md:w-[420px] aspect-square rounded-full bg-[#E75800] border-4 border-white z-10"
+        className="hidden md:block absolute w-[300px] md:w-[420px] aspect-square rounded-full bg-[#E75800] border-4 border-white z-10"
         style={{ right: '100px', top: '15%' }}
       />
 
       {/* Photo - in front of circle, cut off by hero bottom */}
       <div
-        className="absolute w-[300px] md:w-[420px] z-20 overflow-visible"
+        className="hidden md:block absolute w-[300px] md:w-[420px] z-20 overflow-visible"
         style={{ right: '100px', top: '15%' }}
       >
         <img
