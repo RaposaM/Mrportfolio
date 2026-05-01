@@ -22,11 +22,14 @@ export default function Hero() {
           <p>my name is...</p>
         </div>
         <p
-          className="font-['DM_Serif_Display:Regular',sans-serif] not-italic text-[64px] md:text-[96px] leading-tight bg-clip-text text-transparent"
-          style={{ backgroundImage: "linear-gradient(101.55deg, rgb(36, 198, 201) 13.557%, rgb(198, 85, 255) 97.115%)" }}
-        >
-          Mitchell Raposa
-        </p>
+  className="not-italic text-[64px] md:text-[96px] leading-tight bg-clip-text text-transparent"
+  style={{ 
+    backgroundImage: "linear-gradient(101.55deg, rgb(36, 198, 201) 13.557%, rgb(198, 85, 255) 97.115%)",
+    fontFamily: "'DM Serif Display', serif"
+  }}
+>
+  Mitchell Raposa
+</p>
         <p className="font-['Archivo:Regular',sans-serif] text-white text-[20px] md:text-[24px]">
           Web Designer | Graphic Designer | Chemistry Student
         </p>

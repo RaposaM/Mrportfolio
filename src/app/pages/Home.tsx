@@ -28,7 +28,7 @@ function Links() {
 function Footer() {
   return (
     <div className="bg-[#4c4c4c] w-full py-6 px-8">
-      <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-6 items-center justify-between text-white">
+      <div className="flex flex-col md:flex-row gap-6 items-center justify-between text-white">
         <p className="font-['Ancizar_Serif:SemiBold',sans-serif] font-semibold text-[32px] md:text-[40px]">Contact Me!</p>
         <Links />
       </div>
